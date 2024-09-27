@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Faithless GUI pack",
+    "description": "Adds Faithless's GUI to Bedrock Edition, since they are missing.",
+    "uuid": "6f6b82d1-36d9-447c-8575-24270629ac29",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "_",
+      "uuid": "3a254eae-f993-43a3-9881-150faa60f255",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": {
+    "experimental_custom_ui": false,
+    "chemistry": false
+  },
+  "metadata": {
+    "authors": "StitchSprites, ported by Alexzander700",
+    "url": "https://discord.gg/HNYUH5TrGu"
+  }
+}
